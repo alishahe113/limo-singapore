@@ -1,0 +1,6 @@
+{
+  "name": "Limo Singapore - Luxury Chauffeur Service",
+  "description": "Singapore's premier luxury limousine chauffeur booking platform and WordPress Gutenberg layout generator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
